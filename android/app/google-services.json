@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852574658288",
+    "firebase_url": "https://house-link-474f6.firebaseio.com",
+    "project_id": "house-link-474f6",
+    "storage_bucket": "house-link-474f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852574658288:android:48092ff15a9db976616c35",
+        "android_client_info": {
+          "package_name": "com.gymofcodes.houselink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852574658288-qp610mgh53h66n34bpidk499e7c7v3m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGvm8vx3zrvGgcwAGEkDGMSIV7TQdFDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852574658288-qp610mgh53h66n34bpidk499e7c7v3m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
